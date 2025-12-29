@@ -1,5 +1,3 @@
 #!/bin/bash
+ls 
 
-affichage='ls'
-
-echo $affichage
